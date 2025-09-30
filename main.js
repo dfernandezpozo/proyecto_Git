@@ -3,3 +3,4 @@ let myName="David";
 let lastName ="Fernandez";
 console.log("Esto es la feature-1");
 console.log("Prueba de pull-request");
+console.log("Prueba de conflictos git");
